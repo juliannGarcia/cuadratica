@@ -4,6 +4,7 @@ int main (){
     int a,b,c;
     int x1,x2;
     int resultado;
+    cout<<"Codigo creado por julian";
     cin>>a;
     cin>>b;
     cin>>c;
